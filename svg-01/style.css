@@ -34,11 +34,11 @@ body {
 @keyframes box {
     from {
         transform: rotateZ(0deg);
-        fill: blue solid;
+        fill: blue ;
     }
     to {
         transform: rotateZ(360deg);
         fill: red;
     }
-    
+
 }
